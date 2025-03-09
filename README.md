@@ -11,10 +11,10 @@ I'm a passionate AI & Machine Learning engineer with experience in developing LL
 - **Agentic AI & Automation:** LangChain, Semantic Kernel, Kubernetes
 
 ## Projects
-### 1. Ontology-Driven AI Knowledge System *(Ongoing)*
-- Developed a scalable knowledge graph system integrating RDF and SPARQL for semantic reasoning and intelligent query processing.
-- Implemented LLM-based ontology expansion pipelines, enabling dynamic knowledge updates with a 20% improvement in inference accuracy.
-- Designed graph-based AI workflows using Neo4j and AWS Neptune to support large-scale industrial knowledge representation.
+### 1. Multi-Modal AI Assistant *(Ongoing)*
+-	Architected a multi-modal AI assistant capable of processing 10K+ text and audio inputs weekly, delivering context-aware, tailored responses that improved user engagement
+-	Fine-tuned NLP models on domain-specific datasets (e.g., CUAD) using TensorFlow, achieving 95% accuracy in key clause extraction and summarization
+-	Deployed the system as a scalable REST API using FastAPI and Docker, and hosted it on AWS for seamless integration into existing workflows
 
 ### 2. LLM-Powered Semantic Search Engine *(Planned)*
 - Building an LLM-powered search engine that leverages knowledge graphs and embeddings to improve search relevance by 40%.
